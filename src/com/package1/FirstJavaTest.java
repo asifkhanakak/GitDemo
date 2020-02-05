@@ -7,7 +7,7 @@ public class FirstJavaTest {
 		System.out.println("Hello world");
 		
 		
-		System.out.println("Another line");
+		System.out.println("Anothe");
 		System.out.println("Changes");
 
 	}
